@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/unde-occaecati-ab-hic",
-  "version": "9.25.307",
+  "version": "9.25.308",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -358,5 +358,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/unde-occaecati-ab-hic/issues"
   },
-  "packageManager": "yarn@4.7.0"
+  "packageManager": "yarn@4.8.0"
 }
